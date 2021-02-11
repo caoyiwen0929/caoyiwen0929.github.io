@@ -8,10 +8,6 @@
   "devDependencies": {
     "image-size": "^0.8.3",
     "imageinfo": "^1.0.4",
-    "js-yaml": "^4.0.0"
-  },
-  "dependencies": {
-    "hexo-filter-responsive-images": "^1.6.0",
-    "hexo-renderer-scss": "^1.2.0"
+    "js-yaml": "^3.13.1"
   }
 }
